@@ -1,4 +1,4 @@
-//Kasen  223190609
+s//Kasen  223190609
 // Start the program  
 console.log("Welcome to the Student Grade Calculation System.");  
 console.log("Do you need help with the calculation? (yes/no)");  
